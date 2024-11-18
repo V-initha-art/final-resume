@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "25035354497",
+    "project_id": "schoolezy-production",
+    "storage_bucket": "schoolezy-production.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25035354497:android:c6146a07a9236a7e52b880",
+        "android_client_info": {
+          "package_name": "in.schoolezy.schoolezy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25035354497-oo7sm0ta6m58mra1n32sa31lak1kjoam.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.schoolezy.schoolezy",
+            "certificate_hash": "fb3e7eb69296f92eb904a92adffdae0ad946137b"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoLMN0M6ysXIFhkdRPY7A9bd2dGQOfy_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
